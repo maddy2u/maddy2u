@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maddy2u
-- 👀 I’m interested in Machine Learning and Big Data Technologies
-- 🌱 I’m currently developing Apache Hudi and some Machine Learning Repositories for the cloud.
-- 💞️ I’m looking to collaborate on new projects, open source technologies that are in the space of Machine Learning and Big Data.
+- 👀 I’m interested in Machine Learning and Engineering Technologies
+- 💞️ I’m looking to collaborate on new projects, open source technologies that are in the space of Machine Learning and Engineering
 - 📫 How to reach me - maddy2u@gmail.com
 
 <!---
